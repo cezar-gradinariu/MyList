@@ -9,6 +9,7 @@ Things that I have found to be very valuable so far.
 ## AWS Cloud
 
 ## Architecture
+* [Commands, Queries and Clean Architecture](https://www.youtube.com/watch?v=IRvDGPbxdTs)
 
 ## React
 
