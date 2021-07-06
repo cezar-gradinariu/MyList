@@ -16,3 +16,7 @@ Things that I have found to be very valuable so far.
 ## Nodejs
 
 ## NestJs
+
+## Learning
+
+*  [TED - How falling behind can get you ahead](https://www.youtube.com/watch?v=BQ2_BwqcFsc)
