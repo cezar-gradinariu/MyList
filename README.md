@@ -19,7 +19,7 @@ Things that I have found to be very valuable so far.
 
 ## SQL
 
-* [Does Join order matter?] (https://www.youtube.com/watch?v=iIzdAJxedwE)
+* [Does Join order matter?](https://www.youtube.com/watch?v=iIzdAJxedwE)
 * [Sql performance tuning](https://www.youtube.com/watch?v=t2R0-xcKw44)
 
 ## Learning
