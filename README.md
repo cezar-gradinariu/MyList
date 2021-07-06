@@ -17,6 +17,10 @@ Things that I have found to be very valuable so far.
 
 ## NestJs
 
+## SQL
+
+* [Does Join order matter?] (https://www.youtube.com/watch?v=iIzdAJxedwE)
+
 ## Learning
 
 *  [TED - How falling behind can get you ahead](https://www.youtube.com/watch?v=BQ2_BwqcFsc)
