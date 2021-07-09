@@ -26,3 +26,8 @@ Things that I have found to be very valuable so far.
 ## Learning
 
 *  [TED - How falling behind can get you ahead](https://www.youtube.com/watch?v=BQ2_BwqcFsc)
+
+# Meshes
+
+* [Service Mesh Comparison](https://servicemesh.es/)
+* [DAPR introduction](https://blog.pipetail.io/posts/2020-01-29-dapr-introduction/)
