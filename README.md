@@ -31,3 +31,8 @@ Things that I have found to be very valuable so far.
 
 * [Service Mesh Comparison](https://servicemesh.es/)
 * [DAPR introduction](https://blog.pipetail.io/posts/2020-01-29-dapr-introduction/)
+
+# Docker
+
+* [3h - Docker Zero to hero](https://www.youtube.com/watch?v=3c-iBn73dDE)
+* [Learn Docker in 7 easy Steps Full beginer's tutorial](https://www.youtube.com/watch?v=gAkwW2tuIqE) - 11 min only - very good short reminder
