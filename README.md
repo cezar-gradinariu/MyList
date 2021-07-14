@@ -17,6 +17,8 @@ Things that I have found to be very valuable so far.
 
 ## React
 
+* [Generate new React app with NPX](https://egghead.io/lessons/react-generate-a-new-react-app-with-nx) - 1h
+
 ## Nodejs
 
 ## NestJs
