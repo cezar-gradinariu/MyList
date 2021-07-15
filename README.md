@@ -23,6 +23,10 @@ Things that I have found to be very valuable so far.
 
 ## NestJs
 
+## Firebase 
+
+* [Firebase short](https://www.youtube.com/watch?v=q5J5ho7YUhA) - 25 min
+
 ## SQL
 
 * [Does Join order matter?](https://www.youtube.com/watch?v=iIzdAJxedwE)
