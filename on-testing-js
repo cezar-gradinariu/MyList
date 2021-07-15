@@ -1,0 +1,7 @@
+# BDD
+
+BDD - Behaviour Driven Development
+[Cucumber](https://cucumber.io/) - the company 
+Gerkhins - the syntax, a specialized DSL that expresses the tests in a read-able format. Different languages and frameworks have different implementations
+[Cucumber.js](https://cucumber.io/docs/installation/javascript/) - the tool as a package that interpret Gerkhins sysntax and integrates with js.
+Specflow - the.NET implementation
