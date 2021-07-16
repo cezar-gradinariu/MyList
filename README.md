@@ -19,6 +19,10 @@ Things that I have found to be very valuable so far.
 
 * [Generate new React app with NPX](https://egghead.io/lessons/react-generate-a-new-react-app-with-nx) - 1h
 
+## Redux & React-redux
+
+* [Redux cheatsheet](https://devhints.io/redux)
+
 ## Nodejs
 
 ## NestJs
@@ -45,3 +49,7 @@ Things that I have found to be very valuable so far.
 
 * [3h - Docker Zero to hero](https://www.youtube.com/watch?v=3c-iBn73dDE)
 * [Learn Docker in 7 easy Steps Full beginer's tutorial](https://www.youtube.com/watch?v=gAkwW2tuIqE) - 11 min only - very good short reminder
+
+# Event-storming
+
+* [Modeling better](https://buildplease.com/pages/modeling-better/)
