@@ -23,6 +23,12 @@ Things that I have found to be very valuable so far.
 
 * [Redux cheatsheet](https://devhints.io/redux)
 
+## NX-Tooling/Monorepo/Generators
+
+- [Generate a new React app xith nx](https://egghead.io/lessons/react-generate-a-new-react-app-with-nx)
+- [Nx Dev - Docs](https://nx.dev/)
+
+
 ## Nodejs
 
 ## NestJs
