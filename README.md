@@ -6,6 +6,7 @@ Things that I have found to be very valuable so far.
 
 * [C# Patterns](https://refactoring.guru/design-patterns/csharp)
 * [GRASP](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
+* [10 Architecture Patterns Used In Enterprise Software Development Today](https://www.youtube.com/watch?v=BrT3AO8bVQY) - 11m
 
 ## AWS Cloud
 
