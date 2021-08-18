@@ -60,3 +60,7 @@ Things that I have found to be very valuable so far.
 # Event-storming
 
 * [Modeling better](https://buildplease.com/pages/modeling-better/)
+
+# Azure Pipeline
+
+* [How to pass variables in Azure Pipelines YAML tasks](https://medium.com/microsoftazure/how-to-pass-variables-in-azure-pipelines-yaml-tasks-5c81c5d31763) - 5 min read
