@@ -66,3 +66,7 @@ Things that I have found to be very valuable so far.
 # Azure Pipeline
 
 * [How to pass variables in Azure Pipelines YAML tasks](https://medium.com/microsoftazure/how-to-pass-variables-in-azure-pipelines-yaml-tasks-5c81c5d31763) - 5 min read
+
+# .NET Core
+
+* [What is span in C#](https://www.youtube.com/watch?v=FM5dpxJMULY) - 15m
