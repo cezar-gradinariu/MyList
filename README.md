@@ -17,6 +17,7 @@ Things that I have found to be very valuable so far.
 * [Designing a DDD-oriented microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice)
 * [Databases in the Microservices World](https://www.youtube.com/watch?v=-9Veoch50Bg) = 23m awesome refresher
 * [Open Agile Architecture](https://pubs.opengroup.org/architecture/o-aa-standard/index.html) - full read
+* [Mark richards - Architecture full course](https://www.youtube.com/channel/UC-Z7T0lAq_xECevIz8E5R5w/videos) - over 125 awesome videos
 
 ## React
 
